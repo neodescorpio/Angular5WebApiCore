@@ -3,7 +3,49 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2002
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular5WebApiCore.Entities", "Angular5WebApiCore.Entities\Angular5WebApiCore.Entities.csproj", "{9F930220-EA62-4F47-834F-8FF55C55E472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular5WebApiCore.Data", "Angular5WebApiCore.Data\Angular5WebApiCore.Data.csproj", "{DFDD57A0-112A-4480-8267-343CFB938A97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular5WebApiCore.Business", "Angular5WebApiCore.Business\Angular5WebApiCore.Business.csproj", "{4F3C9F76-000E-44B5-B409-E3533CC5FC80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular5WebApiCore.Common", "Angular5WebApiCore.Common\Angular5WebApiCore.Common.csproj", "{8F0AD361-4DF7-4F7D-8B26-558971D90935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular5WebApiCore.WebAPI", "Angular5WebApiCore.WebAPI\Angular5WebApiCore.WebAPI.csproj", "{24233A54-25AD-4DB6-B0EC-7518AF3E980B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular5WebApiCore.WebUI", "Angular5WebApiCore.WebUI\Angular5WebApiCore.WebUI.csproj", "{8E145635-807D-4977-A6BB-A8EC0BD38DD9}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F930220-EA62-4F47-834F-8FF55C55E472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F930220-EA62-4F47-834F-8FF55C55E472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F930220-EA62-4F47-834F-8FF55C55E472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F930220-EA62-4F47-834F-8FF55C55E472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFDD57A0-112A-4480-8267-343CFB938A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDD57A0-112A-4480-8267-343CFB938A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDD57A0-112A-4480-8267-343CFB938A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDD57A0-112A-4480-8267-343CFB938A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F3C9F76-000E-44B5-B409-E3533CC5FC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3C9F76-000E-44B5-B409-E3533CC5FC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3C9F76-000E-44B5-B409-E3533CC5FC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3C9F76-000E-44B5-B409-E3533CC5FC80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F0AD361-4DF7-4F7D-8B26-558971D90935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0AD361-4DF7-4F7D-8B26-558971D90935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0AD361-4DF7-4F7D-8B26-558971D90935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0AD361-4DF7-4F7D-8B26-558971D90935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24233A54-25AD-4DB6-B0EC-7518AF3E980B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24233A54-25AD-4DB6-B0EC-7518AF3E980B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24233A54-25AD-4DB6-B0EC-7518AF3E980B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24233A54-25AD-4DB6-B0EC-7518AF3E980B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E145635-807D-4977-A6BB-A8EC0BD38DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E145635-807D-4977-A6BB-A8EC0BD38DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E145635-807D-4977-A6BB-A8EC0BD38DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E145635-807D-4977-A6BB-A8EC0BD38DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
