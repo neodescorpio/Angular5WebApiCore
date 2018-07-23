@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Angular5WebApiCore.Business\Angular5WebApiCore.Service.csproj" />
+    <ProjectReference Include="..\Angular5WebApiCore.Service\Angular5WebApiCore.Service.csproj" />
   </ItemGroup>
 
 </Project>

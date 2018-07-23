@@ -20,7 +20,7 @@ namespace Angular5WebApiCore.WebAPI.Areas.MasterData.Controllers
 
         public async Task<IActionResult> GetCountries()
         {
-            return Ok(await countryService.GetAllAsync(null));
+            return Ok(await countryService.GetAllAsync());
         }
     }
 }
