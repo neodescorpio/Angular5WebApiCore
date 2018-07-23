@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Angular5WebApiCore.Models",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Angular5WebApiCore.Data", "Angular5WebApiCore.Data\Angular5WebApiCore.Data.csproj", "{DFDD57A0-112A-4480-8267-343CFB938A97}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Angular5WebApiCore.Service", "Angular5WebApiCore.Business\Angular5WebApiCore.Service.csproj", "{4F3C9F76-000E-44B5-B409-E3533CC5FC80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Angular5WebApiCore.Service", "Angular5WebApiCore.Service\Angular5WebApiCore.Service.csproj", "{4F3C9F76-000E-44B5-B409-E3533CC5FC80}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Angular5WebApiCore.Common", "Angular5WebApiCore.Common\Angular5WebApiCore.Common.csproj", "{8F0AD361-4DF7-4F7D-8B26-558971D90935}"
 EndProject
